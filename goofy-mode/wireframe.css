@@ -1,0 +1,40 @@
+body {
+    max-width: 960px;
+    margin: auto; 
+}
+
+img {
+    max-width: 100%;
+}
+
+.centered {
+    text-align: center;
+}
+
+.colored-background {
+    color: greenyellow;
+    background-color: salmon;
+    font-size: 18px;
+    line-height: 1.5;
+    padding: 1em;
+}
+.media-box {
+    background-color: white;
+}
+
+a:link {
+    color: salmon;
+    text-decoration: overline;
+}
+
+a:visited {
+    color: brown
+}
+
+a:hover {
+    color:aqua
+}
+
+a:active {
+    color:blueviolet
+}
